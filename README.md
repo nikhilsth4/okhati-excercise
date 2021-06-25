@@ -2,7 +2,7 @@
 
 This project consist of the authentication of a user where a user can register and login . After a successful login only the user can enter to home page
 
-Demo(https://okhatiexcercise.netlify.app)
+Demo(https://awesome-auth.netlify.app)
 
 ## Prerequisite
 
@@ -32,11 +32,11 @@ Demo(https://okhatiexcercise.netlify.app)
 
 - Email and password field in the login form with field validations as previous.
 - On successful login the user will be greeted with welcome message and navigated to the authenticated page.
-- The authenticated page('https://okhatiexcercise.netlify.app') is not accessible if the user is not logged in.
+- The authenticated page('https://awesome-auth.netlify.app') is not accessible if the user is not logged in.
 
 ### [3] Deploy to netlify
 
-- The app is deployed to netlify ('https://okhatiexcercise.netlify.app')
+- The app is deployed to netlify ('https://awesome-auth.netlify.app')
 
 ### [4] Testing
 
